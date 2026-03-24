@@ -1,0 +1,12 @@
+@import './reset.css';
+@import './variables.css';
+
+#app {
+  min-height: 100vh;
+}
+
+.page-container {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 20px;
+}
